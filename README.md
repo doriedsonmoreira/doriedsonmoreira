@@ -1,16 +1,40 @@
-## Hi there 👋
+### Olá! 👋
 
-<!--
-**doriedsonmoreira/doriedsonmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Doriedson**, desenvolvedor Front-end!
 
-Here are some ideas to get you started:
+Construo aplicações web com foco em código limpo, manutenção e boa experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou evoluindo para Full-Stack e aprimorando minhas habilidades com projetos reais.
+
+---
+
+Meu foco principal é front-end, mas também venho estudando back-end e construção de aplicações completas.
+
+---
+
+### 🚀 Informações rápidas
+
+* 🎓 Estudante de Engenharia de Software na UFC
+* 💻 Formação técnica em Informática
+* 🛠 Gosto de criar soluções para problemas reais
+* 🎯 Em busca da primeira oportunidade como desenvolvedor
+
+---
+
+### 🛠 Tecnologias
+
+* JavaScript
+* TypeScript
+* Vue.js
+* React
+* Node.js
+* TailwindCss
+* Html
+  
+
+---
+
+### 📬 Contato
+
+* LinkedIn: [seu link aqui]
+* Email: [seu email aqui]
