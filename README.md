@@ -36,5 +36,5 @@ Meu foco principal é front-end, mas também venho estudando back-end e constru�
 
 ### 📬 Contato
 
-* LinkedIn: [https://www.linkedin.com/in/doriedsonpessoa/]
+* LinkedIn: [https://www.linkedin.com/in/doriedsonmoreira/]
 * Email: [doriedsonpessoa247@gmail.com]
