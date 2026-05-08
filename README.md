@@ -6,7 +6,9 @@ Construo aplicações web com foco em código limpo, manutenção e boa experiê
 Atualmente estou evoluindo para Full-Stack e aprimorando minhas habilidades com projetos reais.
 
 ---
+
 Meu foco principal é front-end, mas também venho estudando back-end e construção de aplicações completas.
+
 ---
 ### 🚀 Informações rápidas
 * 🎓 Estudante de Engenharia de Software na UFC
