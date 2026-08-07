@@ -2,19 +2,7 @@
 
 Sou **Doriedson**, desenvolvedor Front-end!
 
-Construo aplicações web com foco em código limpo, manutenção e boa experiência do usuário.
-Atualmente estou evoluindo para Full-Stack e aprimorando minhas habilidades com projetos reais.
-
----
-
-Meu foco principal é front-end, mas também venho estudando back-end e construção de aplicações completas.
-
----
-### 🚀 Informações rápidas
-* 🎓 Estudante de Engenharia de Software na UFC
-* 💻 Formação técnica em Informática
-* 🛠 Gosto de criar soluções para problemas reais
-* 🎯 Em busca da primeira oportunidade como desenvolvedor
+Estudante de Engenharia de Software (UFC) com experiência prática em desenvolvimento Frontend, atuando como estagiário na Darp no desenvolvimento das versões web e mobile do sistema Monere. Experiência com Vue.js, TypeScript, React Native, Pinia e Axios, incluindo integração com APIs REST, gerenciamento de estado global, guarda de rotas com JWT e modularização de componentes. Também atuo como UX Designer e desenvolvedor Frontend (React) na Include Jr, empresa júnior do curso, com passagem por projetos institucionais e de busca acadêmica. Trabalho em rotina ágil (Kanban/Scrum), com gestão de tarefas via Shortcut. Interessado em oportunidades de estágio na área de desenvolvimento, com foco em construir interfaces sólidas, performáticas e centradas no usuário.
 ---
 ### 🛠 Tecnologias
 * JavaScript
