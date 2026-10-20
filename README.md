@@ -6,8 +6,6 @@ Atuo no desenvolvimento de aplicações web e mobile, com experiência prática 
 
 Atualmente, trabalho na Darp, contribuindo para o desenvolvimento das versões web e mobile do sistema Monere. Também participei de projetos na Include Jr., atuando com desenvolvimento frontend e UX Design.
 
-Tenho interesse em construir aplicações bem estruturadas, fáceis de manter e centradas na experiência do usuário, enquanto continuo evoluindo como desenvolvedor.
-
 ### 🛠 Tecnologias
 * Vue.js
 * React Native
