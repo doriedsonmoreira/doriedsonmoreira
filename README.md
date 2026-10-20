@@ -1,15 +1,29 @@
-### Olá! 👋
-Sou **Doriedson**, desenvolvedor Front-end!
+### Olá! 👋 Eu sou Doriedson Moreira
 
-Estudante de Engenharia de Software (UFC) com experiência prática em desenvolvimento Frontend, atuando como desenvolvedor na Darp no desenvolvimento das versões web e mobile do sistema Monere. Experiência com Vue.js, TypeScript, React Native, Pinia e Axios, incluindo integração com APIs REST, gerenciamento de estado global, guarda de rotas com JWT e modularização de componentes. Também atuo como UX Designer e desenvolvedor Frontend (React) na Include Jr, empresa júnior do curso, com passagem por projetos institucionais e de busca acadêmica. Trabalho em rotina ágil (Kanban/Scrum), com gestão de tarefas via Shortcut. Interessado em oportunidades de estágio na área de desenvolvimento, com foco em construir interfaces sólidas, performáticas e centradas no usuário.
+**Desenvolvedor FullStack | Estudante de Engenharia de Software na UFC**
+
+Atuo no desenvolvimento de aplicações web e mobile, com experiência prática na construção de interfaces, integração com APIs REST e organização de aplicações frontend.
+
+Atualmente, trabalho na Darp, contribuindo para o desenvolvimento das versões web e mobile do sistema Monere. Também participei de projetos na Include Jr., atuando com desenvolvimento frontend e UX Design.
+
+Tenho interesse em construir aplicações bem estruturadas, fáceis de manter e centradas na experiência do usuário, enquanto continuo evoluindo como desenvolvedor.
+
 ### 🛠 Tecnologias
 * Vue.js
 * React Native
 * TypeScript
+* Python
+* Docker
+* SQL
 * JavaScript
 * React
 * API REST
 * Scrum
+
+### 🛠 Metodologias
+* Scrum
+* Kanban
+
 ### 📬 Contato
 * LinkedIn: [https://www.linkedin.com/in/doriedsonmoreira/]
 * Email: [doriedsonpessoa247@gmail.com]
